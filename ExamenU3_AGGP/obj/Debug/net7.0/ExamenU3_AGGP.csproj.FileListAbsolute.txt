@@ -1,0 +1,14 @@
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\bin\Debug\net7.0\ExamenU3_AGGP.exe
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\bin\Debug\net7.0\ExamenU3_AGGP.deps.json
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\bin\Debug\net7.0\ExamenU3_AGGP.runtimeconfig.json
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\bin\Debug\net7.0\ExamenU3_AGGP.dll
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\bin\Debug\net7.0\ExamenU3_AGGP.pdb
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\obj\Debug\net7.0\ExamenU3_AGGP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\obj\Debug\net7.0\ExamenU3_AGGP.AssemblyInfoInputs.cache
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\obj\Debug\net7.0\ExamenU3_AGGP.AssemblyInfo.cs
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\obj\Debug\net7.0\ExamenU3_AGGP.csproj.CoreCompileInputs.cache
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\obj\Debug\net7.0\ExamenU3_AGGP.dll
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\obj\Debug\net7.0\refint\ExamenU3_AGGP.dll
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\obj\Debug\net7.0\ExamenU3_AGGP.pdb
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\obj\Debug\net7.0\ExamenU3_AGGP.genruntimeconfig.cache
+C:\Users\cd07\source\repos\ExamenU3_AGGP\ExamenU3_AGGP\obj\Debug\net7.0\ref\ExamenU3_AGGP.dll
